@@ -1,4 +1,4 @@
-describe("funcsions", () => {
+describe("function", () => {
   describe("forEach", () => {
     it("should equal mathod forEach", () => {
       const i = [1, 2, 3];
